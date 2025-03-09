@@ -1,2 +1,2 @@
 # CadastroDeNinjas
-Uma API para cadastro de ninjas usando Spring Boot para o Java10
+Uma API para cadastro de ninjas usando Spring Boot para o Java10X  
